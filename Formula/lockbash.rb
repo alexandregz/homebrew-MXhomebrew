@@ -4,8 +4,6 @@ class Lockbash < Formula
   sha1 "3452888e7f01c7cbcf8e454cdea0f6ee78105d85"
   version "1.0"
 
-  depends_on "bash" => :optional
-
   def install
     bin.install "lockbash"
   end
