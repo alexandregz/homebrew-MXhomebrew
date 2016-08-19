@@ -1,7 +1,7 @@
 class Lockbash < Formula
   homepage "https://github.com/alexandregz/lockbash.git"
   url "https://github.com/alexandregz/lockbash.git"
-  sha1 "3452888e7f01c7cbcf8e454cdea0f6ee78105d85"
+  sha256 "12702043f2e1cef616b8e67522793ff3b9e0653b5ada7f661c03a497252ef246"
   version "1.0"
 
   def install

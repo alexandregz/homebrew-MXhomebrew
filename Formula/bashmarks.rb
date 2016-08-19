@@ -1,7 +1,7 @@
 class Bashmarks < Formula
   homepage "http://www.huyng.com/projects/bashmarks/"
   url "https://github.com/huyng/bashmarks.git"
-  sha1 "52a23777261df39cfca9723331c578b41cb38cf9"
+  sha256 "8b6fc458280fd3a5c1d809910bc64737cb6ae009f1891304ffd3b8ece46bf8b1"
   version "1.0"
 
   depends_on "zsh" => :optional
