@@ -3,6 +3,7 @@ class Free < Formula
   homepage "https://github.com/bconway/free-for-Mac-OS-X"
   url "https://raw.githubusercontent.com/bconway/free-for-Mac-OS-X.git"
   sha256 "8b5ba0ab434141d24900023f79036df394b2d43fb15f93f5b0e1b0e1a6e163c0"
+  version "1.0"
 
   def install
     bin.install "free"
